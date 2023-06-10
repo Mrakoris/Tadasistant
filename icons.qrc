@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="materials">
+    <file>arrow_circle_up_FILL0_wght400_GRAD0_opsz48.svg</file>
+    <file>counter_1_FILL0_wght400_GRAD0_opsz48.svg</file>
+    <file>counter_2_FILL0_wght400_GRAD0_opsz48.svg</file>
+    <file>counter_3_FILL0_wght400_GRAD0_opsz48.svg</file>
+    <file>counter_4_FILL0_wght400_GRAD0_opsz48.svg</file>
+    <file>counter_5_FILL0_wght400_GRAD0_opsz48.svg</file>
+    <file>icons.qrc</file>
+    <file>key_FILL0_wght400_GRAD0_opsz48.svg</file>
+    <file>lock_FILL0_wght400_GRAD0_opsz48.svg</file>
+    <file>person_FILL0_wght400_GRAD0_opsz48.svg</file>
+    <file>settings_FILL0_wght400_GRAD0_opsz48.svg</file>
+    <file>subdirectory_arrow_left_FILL0_wght400_GRAD0_opsz48.svg</file>
+    <file>Tada_logo.ico</file>
+    <file>Tada_logo.jpg</file>
+  </qresource>
+</RCC>
