@@ -8,7 +8,7 @@ class chatAnswers(object):
     def __init__(self):
         super().__init__()
 
-openai.api_key = 'addAPIKEY'
+openai.api_key = 'YourAPIKey'
 
 messages = [ {"role": "system", "content": "You are a intelligent assistant."} ]
 
