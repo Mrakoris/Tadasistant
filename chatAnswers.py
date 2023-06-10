@@ -8,7 +8,7 @@ class chatAnswers(object):
     def __init__(self):
         super().__init__()
 
-openai.api_key = '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'
+openai.api_key = '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'
 
 messages = [ {"role": "system", "content": "You are a intelligent assistant."} ]
 
